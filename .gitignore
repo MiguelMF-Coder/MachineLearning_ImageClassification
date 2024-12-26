@@ -1,2 +1,11 @@
+# Ignorar carpetas grandes
 data/
 preprocessed_data/
+
+# Ignorar herramientas temporales
+bfg-1.14.0.jar
+
+# Ignorar archivos de sistema o temporales
+.DS_Store
+__pycache__/
+*.pyc
