@@ -1,0 +1,3 @@
+1d21813bc172039889a1f37892ac7f1f84ca8238 24446594 Best_Non-Segmented_Clasiffier.pth
+2d7c082633ef669b19354c92fb5f0657dc474813 133 Best_Non-Segmented_Clasiffier.pth
+e8b6af41cf25acf8feefcc1c2f0002c867e58da8 168528470 best_segmentation_model.pth
