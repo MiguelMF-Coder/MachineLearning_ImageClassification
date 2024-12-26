@@ -65,9 +65,6 @@ You can download the Oxford-IIIT Pet dataset from [here](https://www.robots.ox.a
 
 ### **Run the Prediction Script**
 To process and classify images, place the images in the `Img_Prueba` folder and run the script:
-```bash
-python script.py
-```
 
 The script will:
 1. Predict the breed of each image.
